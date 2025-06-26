@@ -39,7 +39,7 @@ The workflow includes:
 - **Render** – App deployment  
 - **GitHub** – Version control & collaboration
 
----
 
-## 📂 Repository Structure
+
+
 
