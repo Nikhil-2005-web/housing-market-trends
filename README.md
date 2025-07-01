@@ -4,6 +4,8 @@ A data analytics and visualization project that uncovers insights into housing s
 Built as part of the **SmartBridge x AICTE SmartIntern 2025** internship in the **Data Analytics with Tableau** domain.
 
 ---
+## Video Demo Link
+https://drive.google.com/file/d/1VxpjXWfY2hFR3egbyvqORUGj9kU3qs3m/view?usp=sharing
 
 ## 🌐 Live Website
 👉 [Click to View Dashboard](https://housing-market-trends-4.onrender.com)
